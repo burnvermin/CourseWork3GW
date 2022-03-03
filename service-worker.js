@@ -16,7 +16,7 @@ var cacheFiles = [
     'images//MS.png',
     'images//maf.jpg',  
     'images//icon-store-512.png',
-    'images//icon-store-32.png'
+    'images//icon-store-192.png'
 ];
 
 self.addEventListener('install', (e) => {
